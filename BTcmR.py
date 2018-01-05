@@ -2,7 +2,7 @@ import numpy as np
 from ddm_like import wfpt
 import BigT
 
-import matplotlib
+#import matplotlib
 
 class BigTCM(object):
 
